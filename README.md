@@ -3,6 +3,8 @@
 ## Sobre
 Meu nome é Márcio, sou Bacharel em Ciência da Computação e tenho especialização em Desenvolvimento Web FullStack.
 Trabalho como administrador de infraestrutura de redes e sou apaixonado pelo que faço, contudo, minha meta atual aperfeiçoar meu conhecimento e habilidades em programação para atuar profissionalmente como DevOps.
+## Redes sociais
+<a href="https://www.linkedin.com/in/m%C3%A1rcio-de-ara%C3%BAjo-bastos-870967307/">[![Linkedin](https://i.sstatic.net/gVE0j.png) LinkedIn](https://www.linkedin.com/)</a>
 ## Habilidades
 ![Windows](https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows&logoColor=2CA5E0)
 ![Markdown](https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=markdown)
@@ -32,6 +34,4 @@ Trabalho como administrador de infraestrutura de redes e sou apaixonado pelo que
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=marciodearaujo&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF) <br><br>
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=marciodearaujo&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
-## Redes sociais
-<a href="https://www.linkedin.com/in/m%C3%A1rcio-de-ara%C3%BAjo-bastos-870967307/">[![Linkedin](https://i.sstatic.net/gVE0j.png) LinkedIn](https://www.linkedin.com/)</a>
 
