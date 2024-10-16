@@ -2,7 +2,7 @@
 
 ## Sobre
 Meu nome é Márcio, sou Bacharel em Ciência da Computação e tenho especialização em Desenvolvimento Web FullStack.
-Trabalho como administrador de infraestrutura de redes e sou apaixonado pelo que faço, contudo, minha meta atual aperfeiçoar meu conhecimento e habilidades em programação para atuar profissionalmente como DevOps.
+Trabalho como administrador de infraestrutura de redes e sou apaixonado pelo que faço. Minha meta atual aperfeiçoar meu conhecimento e habilidades em programação para atuar profissionalmente como DevOps.
 ## Redes sociais
 <a href="https://www.linkedin.com/in/m%C3%A1rcio-de-ara%C3%BAjo-bastos-870967307/">[![Linkedin](https://i.sstatic.net/gVE0j.png) LinkedIn](https://www.linkedin.com/)</a>
 ## Habilidades
